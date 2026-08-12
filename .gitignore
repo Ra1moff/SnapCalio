@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+
+# Environment variables (sensitive tokens/keys)
+.env
+
+# Local database and data folder
+data/
+*.db
+
+# Temporary directory and files
+temp/
+*.log
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS specific files
+.DS_Store
+Thumbs.db
